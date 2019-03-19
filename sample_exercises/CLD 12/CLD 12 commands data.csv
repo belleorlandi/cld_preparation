@@ -1,0 +1,5 @@
+SetTime,5,TRUE,False,True
+RunState1,0,FALSE,FALSE,TRUE
+RunState1,0,TRUE,FALSE,TRUE
+SetTime,3,TRUE,False,True
+RunState2,0,TRUE,TRUE,TRUE
