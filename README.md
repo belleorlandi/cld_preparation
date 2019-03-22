@@ -13,5 +13,13 @@ Done: 03/20/2019
 Start: 9:35 a.m.
 End: 9:50 a.m.
 ```
+## Exercise 2:
+
+FGV Elapsed Time Express. 
+```
+Done: 03/22/2019
+Start: 10:15 a.m.
+End: 11:00 a.m.
+```
 
  
