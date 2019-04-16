@@ -29,5 +29,12 @@ Done: 04/09/2019
 Start: 9:30 a.m.
 End: 10:00 a.m.
 ```
+## Exercise 4:
 
+Event Structure Time Out. 
+```
+Done: 04/16/2019
+Start: 9:40 a.m.
+End: 10:37 a.m.
+```
  
