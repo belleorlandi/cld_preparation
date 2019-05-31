@@ -37,4 +37,12 @@ Done: 04/16/2019
 Start: 9:40 a.m.
 End: 10:37 a.m.
 ```
+## Exercise 5:
+
+Parsing Config Data File. 
+```
+Done: 05/31/2019
+Start: 6:40 p.m.
+End: 7:10 p.m.
+```
  
