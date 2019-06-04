@@ -18,32 +18,24 @@ End: 9:50 a.m.
 FGV Elapsed Time Express. 
 ```
 Done: 03/22/2019
-Start: 10:15 a.m.
-End: 11:00 a.m.
 ```
 ## Exercise 3:
 
 FGV Timer. 
 ```
 Done: 04/09/2019
-Start: 9:30 a.m.
-End: 10:00 a.m.
 ```
 ## Exercise 4:
 
 Event Structure Time Out. 
 ```
 Done: 04/16/2019
-Start: 9:40 a.m.
-End: 10:37 a.m.
 ```
 ## Exercise 5:
 
 Parsing Config Data File. 
 ```
 Done: 05/31/2019
-Start: 6:40 p.m.
-End: 7:10 p.m.
 ```
  
 ## Exercise 6:
@@ -51,6 +43,11 @@ End: 7:10 p.m.
 CSV File Utility. 
 ```
 Done: 06/03/2019
-Start: 11:00 p.m.
-End: 11:20 p.m.
+```
+
+## Exercise 6:
+
+Time Stamp Parsing. 
+```
+Done: 06/03/2019
 ```
