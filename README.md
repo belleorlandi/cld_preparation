@@ -46,3 +46,11 @@ Start: 6:40 p.m.
 End: 7:10 p.m.
 ```
  
+## Exercise 6:
+
+CSV File Utility. 
+```
+Done: 06/03/2019
+Start: 11:00 p.m.
+End: 11:20 p.m.
+```
