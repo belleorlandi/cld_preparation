@@ -45,9 +45,16 @@ CSV File Utility.
 Done: 06/03/2019
 ```
 
-## Exercise 6:
+## Exercise 7:
 
 Time Stamp Parsing. 
+```
+Done: 06/03/2019
+```
+
+## Exercise 8:
+
+File Commands Utility. 
 ```
 Done: 06/03/2019
 ```
