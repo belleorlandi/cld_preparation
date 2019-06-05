@@ -10,8 +10,6 @@ Feel free to share or contact me for any feedback and tips.
 Elapsed Time Express. 
 ```
 Done: 03/20/2019
-Start: 9:35 a.m.
-End: 9:50 a.m.
 ```
 ## Exercise 2:
 
@@ -57,4 +55,11 @@ Done: 06/03/2019
 File Commands Utility. 
 ```
 Done: 06/03/2019
+```
+
+## Exercise 9:
+
+Step Sequencer with Express Timer. 
+```
+Done: 06/05/2019
 ```
