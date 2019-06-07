@@ -64,9 +64,16 @@ Step Sequencer with Express Timer.
 Done: 06/05/2019
 ```
 
-## Exercise 9:
+## Exercise 10:
 
 Elapsed Time Express VI Step Sequencer. 
 ```
 Done: 06/05/2019
+```
+
+## Exercise 11:
+
+Producer Consumer Events. 
+```
+Done: 06/07/2019
 ```
